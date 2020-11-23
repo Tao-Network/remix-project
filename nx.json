@@ -84,6 +84,9 @@
     },
     "remix-ui-toaster": {
       "tags": []
+    },
+    "remix-ui-file-explorer": {
+      "tags": []
     }
   }
 }
